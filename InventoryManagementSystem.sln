@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InventoryManagement", "Inve
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libraries", "libraries", "{2D714925-FDD8-4ED2-8B4F-CA1135921886}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagementApi", "InventoryManagementApi\InventoryManagementApi.csproj", "{4865482D-522E-4883-BADD-7D75589BF20E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F5308CB7-6027-4F8C-8D23-9EDAB26E44D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5308CB7-6027-4F8C-8D23-9EDAB26E44D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5308CB7-6027-4F8C-8D23-9EDAB26E44D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4865482D-522E-4883-BADD-7D75589BF20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4865482D-522E-4883-BADD-7D75589BF20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4865482D-522E-4883-BADD-7D75589BF20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4865482D-522E-4883-BADD-7D75589BF20E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,6 +71,7 @@ Global
 		{F5308CB7-6027-4F8C-8D23-9EDAB26E44D4} = {2B93C0AB-0A4B-4900-A1AF-F49CEAC309B0}
 		{9FB653F8-C56B-4688-982D-5CDA958075BC} = {71E5D273-0719-4F00-A4C0-13553DE36C7D}
 		{2D714925-FDD8-4ED2-8B4F-CA1135921886} = {9FB653F8-C56B-4688-982D-5CDA958075BC}
+		{4865482D-522E-4883-BADD-7D75589BF20E} = {2D714925-FDD8-4ED2-8B4F-CA1135921886}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7828FB50-6A91-4A5A-9CA4-A85D26185A43}
